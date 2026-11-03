@@ -4,6 +4,6 @@ Atividade colaborativa de Git e GitHub - branches, Pull Requests, code review e 
 ## Integrantes
 
 - **Lucas Lima Nascimento** — [@lucas-limas](https://github.com/lucas-limas)
-  Curso: *(preencher)* · Turma: *(preencher)*
+  Curso: Engenharia de Software · Turma: N1
 - **Cauã Spinola de Oliveira** — [@cauaspinola](https://github.com/cauaspinola)
-  Curso: *(preencher)* · Turma: *(preencher)*
+  Curso: Engenharia de Software · Turma: N1
