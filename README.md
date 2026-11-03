@@ -1,5 +1,5 @@
 # desafio-colaborativo-git
-Atividade colaborativa de Git e GitHub - branches, Pull Requests, code review e resolucao de conflitos
+Atividade colaborativa de Git e GitHub - branches, Pull Requests, code review e resolucao de conflitos, praticada por estudantes de C, Python, Java, JavaScript e C#
 
 ## Integrantes
 
@@ -7,3 +7,11 @@ Atividade colaborativa de Git e GitHub - branches, Pull Requests, code review e 
   Curso: Engenharia de Software · Turma: N1
 - **Cauã Spinola de Oliveira** — [@cauaspinola](https://github.com/cauaspinola)
   Curso: Engenharia de Software · Turma: N1
+
+## Linguagens aprendidas
+
+- C
+- Python
+- Java
+- JavaScript
+- C#
